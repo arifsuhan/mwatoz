@@ -1,5 +1,5 @@
 ### A to Z of Backend
-In this repository, we will cover
+In this repository, we will cover below. But primary focus - Spring boot, Django, Express.js
 1. Framework based on language:
     1. Java:
         1. Spring boot
