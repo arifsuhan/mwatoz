@@ -1,42 +1,29 @@
 ### A to Z of Backend
-In this repository, we will cover below. But primary focus - Spring boot, Django, Express.js
-1. Framework based on language:
-    1. Java:
-        1. Spring boot
-        2. Struts
-        3. Hibernate
-    2. Python:
-        1. Django
-        2. Flask
-        3. FastAPI
-    3. Nodejs:
-        1. Express.js
-        2. Next.js
-        3. Sails.js
-    4. C#:
-        1. ASP.NET Core
-        2. Blazor
-        3. ASP.NET MVC
-    5. PHP:
-        1. Laravel
-        2. CodeIgniter
-        3. CakePHP
-    6. Ruby:
-        1. Ruby on Rails
-        2. Sinatra
-        3. Padrino
-    7. Golang:
-        1. Gin
-        2. Beego
-        3. Fiber
-    8. Scala
-        1. Play
-        2. Scalatra
-        3. Grails
-    9. Rust
-        1. Rocket
-        2. Ride
-        3. Rouille
+
+This repo will contain:
+1. Framework
 2. Database
 3. Docker
-4. Cloud Setup
+4. Port Forward
+
+
+
+**In this repository, we will cover below. But primary focus will be Spring boot, Django, Express.js**
+
+1. **Language wise Framework List**
+
+| No | Language | Framework |
+|---|---|---|
+| 1 | Java  | Spring boot, Struts, Hibernate |
+| 2 | Python| Django, Flask, FastAPI |
+| 3 | Nodejs| Express.js, Next.js, Sails.js |
+| 4 | C#| ASP.NET Core, Blazor, ASP.NET MVC |
+| 5 | PHP| Laravel, CodeIgniter, CakePHP |
+| 6 | Ruby| Ruby on Rails, Sinatra, Padrino |
+| 7 | Golang| Gin, Beego, Fiber |
+| 8 | Scala| Play, Scalatra, Grails |
+| 9 | Rust| Rocket, Ride, Rouille |
+
+2. **Database:** Sqlite3
+3. **Docker:** Make script so that by taking user command arguments it creates image build of backend app
+4. **Port Forward:** Localtunnel, Ngrok 
