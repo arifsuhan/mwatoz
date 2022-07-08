@@ -1,0 +1,22 @@
+{
+  "name": "hello_expressjs",
+  "version": "1.0.0",
+  "description": "hello world in express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arifsuhan/mwatoz.git"
+  },
+  "author": "arifsuhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arifsuhan/mwatoz/issues"
+  },
+  "homepage": "https://github.com/arifsuhan/mwatoz#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
